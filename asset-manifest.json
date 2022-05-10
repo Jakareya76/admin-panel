@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-panel/static/css/main.5f5decca.css",
+    "main.js": "/admin-panel/static/js/main.448d9935.js",
+    "index.html": "/admin-panel/index.html",
+    "main.5f5decca.css.map": "/admin-panel/static/css/main.5f5decca.css.map",
+    "main.448d9935.js.map": "/admin-panel/static/js/main.448d9935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5decca.css",
+    "static/js/main.448d9935.js"
+  ]
+}
